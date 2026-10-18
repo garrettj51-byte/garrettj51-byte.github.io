@@ -1,2 +1,5 @@
-# Jess Ford CRM preview
-Sample data only. Built website files for a clickable demo; no real customer data.
+# Jess Ford CRM — sample-data preview
+
+Static built output of the Jess Ford CRM preview (sample data only). Source remains private.
+
+Hosted via GitHub Pages from this repository.
