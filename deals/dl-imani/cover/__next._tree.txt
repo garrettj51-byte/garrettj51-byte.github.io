@@ -1,4 +1,4 @@
-:HL["/_next/static/chunks/11zqaqiaj4_kp.css","style"]
+:HL["/_next/static/chunks/443q1ljlvpzij.css","style"]
 :HL["/_next/static/media/03fc1b4a8d284b5e-s.p.0wiir8udbzjvx.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/303804218d80822e-s.p.3lj349bs9hfu1.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/99e609270109b47d-s.p.40sczeszzbjw1.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
@@ -8,4 +8,4 @@
 3:[["children",{"s":{"n":"id","t":"d","k":"dl-imani","s":[]},"h":65632,"c":"$Q4"}]]
 2:[["children",{"s":"deals","h":131168,"c":"$Q3"}]]
 1:[["children",{"s":"(print)","h":131168,"c":"$Q2"}]]
-0:{"b":"lha_cbWzVMqiumC-4WSHs","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
+0:{"b":"GUtQnCIP4YB85O0zAaAAX","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
