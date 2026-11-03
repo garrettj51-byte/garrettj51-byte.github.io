@@ -1,0 +1,1 @@
+(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,27416,e=>{"use strict";var t=e.i(43476),i=e.i(18566),r=e.i(92947);e.s(["CustomerScreen",0,function(){let e=(0,i.useSearchParams)().get("id")??"";return(0,t.jsx)(r.C,{id:e},e)}])}]);
